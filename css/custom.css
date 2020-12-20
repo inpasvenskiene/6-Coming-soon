@@ -4,6 +4,9 @@
 
 .hero.container {
     padding-bottom: 20px;
+    background-image: url(../img/photo.png);
+    background-size: cover;
+    background-position: center bottom;
 }
   .hero > .short {
       text-align: center;
